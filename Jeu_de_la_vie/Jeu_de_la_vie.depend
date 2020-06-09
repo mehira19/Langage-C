@@ -1,0 +1,6 @@
+# depslib dependency file v1.0
+1583162805 source:/Users/diallo/Desktop/Jeu_de_la_vie/main.c
+	<stdlib.h>
+	<stdio.h>
+	<time.h>
+
